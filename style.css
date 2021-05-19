@@ -1,0 +1,30 @@
+h1{
+   background-color: palegoldenrod;
+}
+.header{
+    background-color: paleturquoise;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.grid{
+    background-color: turquoise;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.item p{
+    color: #000666;
+    border: solid;
+    border-color: #986755;
+}
+.grid img{
+    border: solid;
+    flex-wrap: wrap;
+}
+
+
+
+
+
